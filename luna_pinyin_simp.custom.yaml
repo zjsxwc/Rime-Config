@@ -16,6 +16,9 @@
 # 朙月拼音·語句流	luna_pinyin_fluency
 
 patch:
+  "style/horizontal": true
+  "style/font_point": 16
+  "style/label_font_point": 16
   switches:
     - name: ascii_mode
       reset: 0
